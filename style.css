@@ -1,0 +1,19 @@
+#img1
+{
+    height: 30px;
+    width: 30px;
+    border-radius: 100px;
+}
+
+.login_div
+{
+    border-radius: 20px;
+    background-color: cadetblue;
+    margin-left: 425px;
+    margin-top: 50px;
+}
+
+#bgrnd
+{
+    background-color: darkturquoise;
+}
